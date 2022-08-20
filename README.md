@@ -24,7 +24,8 @@ The whole code has two files - `CustomGRU.py` and `Notebook.ipynb` as different 
 
 ## Equations of update/reset gate in Optimized Models.
 
-![Screenshot 2022-08-20 023826](https://user-images.githubusercontent.com/31654395/185734323-fda47d0e-d245-4e8d-894b-feed2767dd93.png)
+![Screenshot 2022-08-20 022808](https://user-images.githubusercontent.com/31654395/185734525-d741a886-8bc6-496d-89d4-1cb6d987a6e2.png)
+
 
 ## References
 
